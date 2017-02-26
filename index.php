@@ -6,6 +6,7 @@
 <body>
     <header>
     <h1>Привет</h1>
+    <h1>Привет, Макс!</h1>
     </header>
     <content>
     </content>
